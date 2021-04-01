@@ -2,5 +2,6 @@
 
 #### Clone de interface da Netflix:
 
-* Clone feito a partir da video aula :
-* https://www.youtube.com/watch?v=tBweoUiMsDg
+* Clone feito a partir da aula do : ***Bonieky Lacerda***.
+
+  
